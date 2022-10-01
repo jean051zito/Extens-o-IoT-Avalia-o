@@ -16,4 +16,4 @@ A temperatura e as mensagens de alerta são transmitidas através do monitor ser
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="esqueminha.png">
 
-<a hre="Avaliacao_IoT_Termômetro.ino">Clique aqui para o código <a/>
+<a hre="Avaliacao_IoT_Termômetro.ino">Clique aqui para o código.
