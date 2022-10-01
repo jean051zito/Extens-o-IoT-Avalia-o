@@ -20,3 +20,10 @@ A temperatura e as mensagens de alerta são transmitidas através do monitor ser
 <img src="esqueminha.png">
 
 <a href="Avaliacao_IoT_Termômetro.ino">Clique aqui para o código.<a/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VERSÃO EM BLOCOS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="Bloco Term1.png">
+<img src="Bloco Term2.png">
+<img src="Bloco Term3.png">
