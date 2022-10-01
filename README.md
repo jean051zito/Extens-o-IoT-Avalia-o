@@ -15,3 +15,5 @@ LED Vermelho: Temperatura elevada!- É acionado um alerta quando a temperatura u
 A temperatura e as mensagens de alerta são transmitidas através do monitor serial.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="esqueminha.png">
+
+<a hre="Avaliacao_IoT_Termômetro.ino">Clique aqui para o código <a/>
